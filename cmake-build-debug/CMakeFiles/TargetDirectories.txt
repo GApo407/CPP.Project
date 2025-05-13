@@ -1,0 +1,3 @@
+/home/starr/文档/Cpp.Project/cmake-build-debug/CMakeFiles/Cpp.Project.dir
+/home/starr/文档/Cpp.Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/starr/文档/Cpp.Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
