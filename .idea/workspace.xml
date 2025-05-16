@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="7" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue" value="CppFormatterOtherPage" type="string" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e16b0afa-a7b1-4051-b789-94b062a7f094" name="更改" comment="合并本地和远程的历史&#10;&#10;# Conflicts:&#10;#&#9;.idea/CLion_Project.iml&#10;#&#9;.idea/editor.xml&#10;#&#9;.idea/modules.xml&#10;#&#9;cmake-build-debug/CMakeFiles/clion-Debug-log.txt&#10;#&#9;多态/多态案例-制作饮品.cpp&#10;#&#9;多态/多态案例-计算器.cpp&#10;#&#9;多态/纯虚函数和抽象类.cpp&#10;#&#9;多态/虚析构和纯虚析构.cpp&#10;#&#9;多态/计算器.cpp">
+      <changelist_data name="GApo407" email="denglyhao@gmail.com" automatic="false" />
+      <change afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/_2025_5_16_01_02____.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2025_5_16_01_02_取消提交了更改_[更改]/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/shelf/在进行签出之前于_2025_5_16_01_02_取消提交了更改_[更改]1/shelved.patch" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常量/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/CLion_Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CLion_Project.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-f65a8efe9432fc49d2f8.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/index-2025-05-12T14-25-46-0216.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.cmake/api/v1/reply/target-Cpp.Project-Debug-f0150e4ffaf7158acba2.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/build.ninja" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="GApo407 &lt;denglyhao@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;GApo407&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/GApo407/CPP.Project.git&quot;,
+    &quot;accountId&quot;: &quot;bff91b2a-2eb7-4661-9b6d-d22fd5ecff59&quot;
+  }
+}</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/for循环/循环中的断句.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/if语句/else if 语句.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/while循环/do whlie 循环.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/while循环/while 嵌套语句.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/while循环/while循环猜数字案例.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/main.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数传入数组.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数基础语法.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数无返回值与void类型.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数的默认值.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数空参.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数综合案例.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数返回数组 - 改进.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数返回数组.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数重载.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/函数重载注意事项.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/参数的值传递和地址传递.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/函数/返回指针的函数及局部变量的生命周期.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/变量/变量.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/变量/变量的作用域.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/变量/变量的快速定义.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/多文件函数编程/main1.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/常量/字面常量 .cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/常量/常量类型的确定.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/常量/符号常量.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/引用/常量引用.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/引用/引用.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/引用/引用传参.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/引用/引用做函数传参.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/引用/引用基础巩固.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/starr/文档/Cpp.Project/指针/const指针.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/指针/const指针.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/指针/动态内存管理.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/数组/数组元素的移除.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/点和圆的关系（多文件编程）/圆的实现.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/点和圆的关系（多文件编程）/圆的属性.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/点和圆的关系（多文件编程）/点的实现.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/点和圆的关系（多文件编程）/点的属性.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/点和圆的关系（多文件编程）/程序.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/理论实践/全局区.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/理论实践/堆区.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/理论实践/栈区.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="vcs:///home/starr/文档/Cpp.Project/类/class的基本语法.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/类/class的基本语法.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/类/封装的意义.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/类/封装的权限控制.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/类/类的访问修饰符.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/结构体/结构体基本应用.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/结构体/结构体指针.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/设计立方体类（多文件编程）/立方体属性.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/运算符/算术运算符.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file:///usr/include/c++/13/iostream" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2024" />
+    <option name="minorVersion" value="3.5" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2vUipHceq5vhbhxkr1WZn4KfBNW" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showScratchesAndConsoles" value="false" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;C/C++ 文件.class的基本语法.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.do whlie 循环.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.else if 语句.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.for循环嵌套.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.main.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.static关键字.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.this指针概念.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.while 嵌套语句.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.while循环猜数字案例.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.三元运算符.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.主函数.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.全局函数做友元.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.全局区.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.关系运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数占位参数.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数基础语法.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数无返回值与void类型.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数调用运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数返回数组 - 改进.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.函数重载注意事项.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.初始化列表.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.加号运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.动态内存管理.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.变量的作用域.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.变量的快速定义.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.基于逻辑运算符完成复杂判断.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.堆区.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.多态基本概念.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.多继承语法.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.字面常量 .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.封装的意义.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.封装的权限控制.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.左移运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.常量引用.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.常量类型的确定.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.引用传参.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.引用做函数传参.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.引用基础巩固.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.循环中的断句.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.成员函数做友元.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.成员变量和成员函数分开存储.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.指针.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.数据类型（字符型） .cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.数组元素的移除.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.无符号和有符号数字.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.枚举类型.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.栈区.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.深拷贝与浅拷贝.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.符号常量.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.算术运算符.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.类做友元.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.类对象作为类成员.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.类的访问修饰符.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.结构体基本应用.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.结构体指针.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.继承中构造和析构顺序.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.继承中的对象模型.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.继承同名成员处理方式.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.继承同名静态成员处理方式.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.继承的基本语法.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.菱形继承.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.行为.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.赋值运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.递增运算符重载.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.静态成员函数.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.静态成员变量.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;C/C++ 文件.面向对象入门.cpp.executor&quot;: &quot;Run&quot;,
+    &quot;CMake 应用程序.Cpp.Project.executor&quot;: &quot;Run&quot;,
+    &quot;CMake 调试.CPP.Project.executor&quot;: &quot;Debug&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.west.config.association.type.startup.service&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.has.clang-format&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;正在变基 main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/starr/文档/数据结构，算法&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/普通语法" />
+      <recent name="$PROJECT_DIR$/变量" />
+      <recent name="$PROJECT_DIR$/循环" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/引用" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.30.5/CompilerIdC" />
+      <recent name="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.30.5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ 文件.继承中构造和析构顺序.cpp">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Cpp.Project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="Cpp.Project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CPP.Project" RUN_TARGET_NAME="Cpp.Project">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="继承中构造和析构顺序.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="继承中构造和析构顺序.cpp" CONFIG_NAME="继承中构造和析构顺序.cpp">
+      <option name="sourceFile" value="继承/继承中构造和析构顺序.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="全局函数做友元.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="全局函数做友元.cpp" CONFIG_NAME="全局函数做友元.cpp">
+      <option name="sourceFile" value="友元/全局函数做友元.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="初始化列表.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="初始化列表.cpp" CONFIG_NAME="初始化列表.cpp">
+      <option name="sourceFile" value="构造函数与析构函数/初始化列表.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="封装的权限控制.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="封装的权限控制.cpp" CONFIG_NAME="封装的权限控制.cpp">
+      <option name="sourceFile" value="类/封装的权限控制.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="左移运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="左移运算符重载.cpp" CONFIG_NAME="左移运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/左移运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="静态成员函数.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="静态成员函数.cpp" CONFIG_NAME="静态成员函数.cpp">
+      <option name="sourceFile" value="类/静态成员函数.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="多继承语法.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="多继承语法.cpp" CONFIG_NAME="多继承语法.cpp">
+      <option name="sourceFile" value="继承/多继承语法.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="继承同名成员处理方式.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="继承同名成员处理方式.cpp" CONFIG_NAME="继承同名成员处理方式.cpp">
+      <option name="sourceFile" value="继承/继承同名成员处理方式.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="基于逻辑运算符完成复杂判断.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="基于逻辑运算符完成复杂判断.cpp" CONFIG_NAME="基于逻辑运算符完成复杂判断.cpp">
+      <option name="sourceFile" value="运算符/基于逻辑运算符完成复杂判断.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="三元运算符.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="三元运算符.cpp" CONFIG_NAME="三元运算符.cpp">
+      <option name="sourceFile" value="运算符/三元运算符.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数调用运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="函数调用运算符重载.cpp" CONFIG_NAME="函数调用运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/函数调用运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="继承同名静态成员处理方式.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="继承同名静态成员处理方式.cpp" CONFIG_NAME="继承同名静态成员处理方式.cpp">
+      <option name="sourceFile" value="继承/继承同名静态成员处理方式.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="面向对象入门.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="面向对象入门.cpp" CONFIG_NAME="面向对象入门.cpp">
+      <option name="sourceFile" value="类/面向对象入门.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="引用做函数传参.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="引用做函数传参.cpp" CONFIG_NAME="引用做函数传参.cpp">
+      <option name="sourceFile" value="引用/引用做函数传参.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="成员变量和成员函数分开存储.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="成员变量和成员函数分开存储.cpp" CONFIG_NAME="成员变量和成员函数分开存储.cpp">
+      <option name="sourceFile" value="类/成员变量和成员函数分开存储.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="成员函数做友元.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="成员函数做友元.cpp" CONFIG_NAME="成员函数做友元.cpp">
+      <option name="sourceFile" value="友元/成员函数做友元.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="函数重载.cpp" CONFIG_NAME="函数重载.cpp">
+      <option name="sourceFile" value="函数/函数重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="类做友元.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="类做友元.cpp" CONFIG_NAME="类做友元.cpp">
+      <option name="sourceFile" value="友元/类做友元.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="符号常量.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="符号常量.cpp" CONFIG_NAME="符号常量.cpp">
+      <option name="sourceFile" value="常量/符号常量.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="变量的作用域.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="变量的作用域.cpp" CONFIG_NAME="变量的作用域.cpp">
+      <option name="sourceFile" value="变量/变量的作用域.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数重载注意事项.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="函数重载注意事项.cpp" CONFIG_NAME="函数重载注意事项.cpp">
+      <option name="sourceFile" value="函数/函数重载注意事项.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="结构体基本应用.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="结构体基本应用.cpp" CONFIG_NAME="结构体基本应用.cpp">
+      <option name="sourceFile" value="结构体/结构体基本应用.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="堆区.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="堆区.cpp" CONFIG_NAME="堆区.cpp">
+      <option name="sourceFile" value="理论实践/堆区.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="关系运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="关系运算符重载.cpp" CONFIG_NAME="关系运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/关系运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="加号运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="加号运算符重载.cpp" CONFIG_NAME="加号运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/加号运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="深拷贝与浅拷贝.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="深拷贝与浅拷贝.cpp" CONFIG_NAME="深拷贝与浅拷贝.cpp">
+      <option name="sourceFile" value="构造函数与析构函数/深拷贝与浅拷贝.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="赋值运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="赋值运算符重载.cpp" CONFIG_NAME="赋值运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/赋值运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="递增运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="递增运算符重载.cpp" CONFIG_NAME="递增运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/递增运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="栈区.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="栈区.cpp" CONFIG_NAME="栈区.cpp">
+      <option name="sourceFile" value="理论实践/栈区.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="函数基础语法.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="函数基础语法.cpp" CONFIG_NAME="函数基础语法.cpp">
+      <option name="sourceFile" value="函数/函数基础语法.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="赋值运算符重载.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="赋值运算符重载.cpp" CONFIG_NAME="赋值运算符重载.cpp">
+      <option name="sourceFile" value="运算法重载/赋值运算符重载.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="继承的基本语法.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="继承的基本语法.cpp" CONFIG_NAME="继承的基本语法.cpp">
+      <option name="sourceFile" value="继承/继承的基本语法.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="多态基本概念.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="多态基本概念.cpp" CONFIG_NAME="多态基本概念.cpp">
+      <option name="sourceFile" value="多态/多态基本概念.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="封装的意义.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="封装的意义.cpp" CONFIG_NAME="封装的意义.cpp">
+      <option name="sourceFile" value="类/封装的意义.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="成员变量和成员函数分开存储.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="成员变量和成员函数分开存储.cpp" CONFIG_NAME="成员变量和成员函数分开存储.cpp">
+      <option name="sourceFile" value="类/成员变量和成员函数分开存储.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="菱形继承.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="菱形继承.cpp" CONFIG_NAME="菱形继承.cpp">
+      <option name="sourceFile" value="继承/菱形继承.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="枚举类型.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="枚举类型.cpp" CONFIG_NAME="枚举类型.cpp">
+      <option name="sourceFile" value="基础语法/枚举类型.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="主函数.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="主函数.cpp" CONFIG_NAME="主函数.cpp">
+      <option name="sourceFile" value="设计立方体类（多文件编程）/主函数.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="行为.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="行为.cpp" CONFIG_NAME="行为.cpp">
+      <option name="sourceFile" value="设计立方体类（多文件编程）/行为.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="类对象作为类成员.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="类对象作为类成员.cpp" CONFIG_NAME="类对象作为类成员.cpp">
+      <option name="sourceFile" value="构造函数与析构函数/类对象作为类成员.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="类的访问修饰符.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Cpp.Project" TARGET_NAME="类的访问修饰符.cpp" CONFIG_NAME="类的访问修饰符.cpp">
+      <option name="sourceFile" value="类/类的访问修饰符.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="主函数.cpp" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CPP.Project" TARGET_NAME="主函数.cpp" CONFIG_NAME="主函数.cpp">
+      <option name="sourceFile" value="设计立方体类（多文件编程）/主函数.cpp" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="C/C++ 文件.继承中构造和析构顺序.cpp" />
+      <item itemvalue="CMake 应用程序.Cpp.Project" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ 文件.继承中构造和析构顺序.cpp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e16b0afa-a7b1-4051-b789-94b062a7f094" name="更改" comment="" />
+      <created>1744206235006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744206235006</updated>
+      <workItem from="1744206236552" duration="3399000" />
+      <workItem from="1744209696774" duration="899000" />
+      <workItem from="1744210964039" duration="179000" />
+      <workItem from="1744211213958" duration="3611000" />
+      <workItem from="1744289908139" duration="10632000" />
+      <workItem from="1744372253887" duration="3603000" />
+      <workItem from="1744376916832" duration="150000" />
+      <workItem from="1744377076105" duration="1201000" />
+      <workItem from="1744378361974" duration="224000" />
+      <workItem from="1744378594816" duration="523000" />
+      <workItem from="1744379132907" duration="944000" />
+      <workItem from="1744380150581" duration="290000" />
+      <workItem from="1744380467344" duration="965000" />
+      <workItem from="1744694149858" duration="24000" />
+      <workItem from="1744694181977" duration="944000" />
+      <workItem from="1744695446710" duration="3000" />
+      <workItem from="1744708343090" duration="112000" />
+      <workItem from="1744708462483" duration="49000" />
+      <workItem from="1744711996343" duration="24000" />
+      <workItem from="1744712334075" duration="359000" />
+      <workItem from="1744712698455" duration="11201000" />
+      <workItem from="1744738705803" duration="1207000" />
+      <workItem from="1744806480152" duration="4354000" />
+      <workItem from="1744877212260" duration="127000" />
+      <workItem from="1744878899703" duration="652000" />
+      <workItem from="1744964944670" duration="3000" />
+      <workItem from="1745060019510" duration="55000" />
+      <workItem from="1745060214960" duration="617000" />
+      <workItem from="1745061359990" duration="17000" />
+      <workItem from="1745061423224" duration="6000" />
+      <workItem from="1745061701949" duration="444000" />
+      <workItem from="1745139491670" duration="314000" />
+      <workItem from="1745141942611" duration="4463000" />
+      <workItem from="1745244152313" duration="7218000" />
+      <workItem from="1745326017657" duration="2280000" />
+      <workItem from="1745336165453" duration="116000" />
+      <workItem from="1745398871450" duration="1393000" />
+      <workItem from="1745403001592" duration="11696000" />
+      <workItem from="1745478220004" duration="30000" />
+      <workItem from="1745580095897" duration="538000" />
+      <workItem from="1745646194418" duration="17548000" />
+      <workItem from="1745728319742" duration="2939000" />
+      <workItem from="1745765675000" duration="5340000" />
+      <workItem from="1745832137326" duration="12893000" />
+      <workItem from="1745928002877" duration="12110000" />
+      <workItem from="1746034638976" duration="1071000" />
+      <workItem from="1746162161834" duration="919000" />
+      <workItem from="1746433447441" duration="648000" />
+      <workItem from="1746442966630" duration="1000" />
+      <workItem from="1746448207461" duration="3449000" />
+      <workItem from="1746524911659" duration="4455000" />
+      <workItem from="1746540374783" duration="7970000" />
+      <workItem from="1746585985971" duration="12539000" />
+      <workItem from="1746684818311" duration="341000" />
+      <workItem from="1746685171920" duration="173000" />
+      <workItem from="1746685356912" duration="1652000" />
+      <workItem from="1746695662636" duration="690000" />
+      <workItem from="1746696517813" duration="571000" />
+      <workItem from="1746697101561" duration="156000" />
+      <workItem from="1746697269919" duration="15000" />
+      <workItem from="1746697336041" duration="13764000" />
+      <workItem from="1746898039756" duration="553000" />
+      <workItem from="1747046382320" duration="9062000" />
+      <workItem from="1747101128418" duration="10823000" />
+      <workItem from="1747196397217" duration="2040000" />
+      <workItem from="1747275364279" duration="1070000" />
+      <workItem from="1747302384008" duration="3738000" />
+      <workItem from="1747325205045" duration="3082000" />
+      <workItem from="1747328592984" duration="610000" />
+      <workItem from="1747450548534" duration="302000" />
+      <workItem from="1747458717575" duration="3000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
