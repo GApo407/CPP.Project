@@ -5,7 +5,7 @@ using namespace std;
 
 // 纯虚函数和抽象类
 
-class Base {
+class Base{
 public:
    // 纯虚函数
    // 只有一个纯虚函数，这个类称为抽象类
@@ -15,24 +15,24 @@ public:
    virtual void func() = 0;
 };
 
-class Son : public Base {
+class Son : public Base{
 public:
-   void func() override {
+   void func() override{
       cout << "func 函数调用" << endl;
    };
 };
 
-void test01() {
+void test01(){
    // Base b;    // 抽象类Base无法实例化对象 x
    // new Base;  //抽象类Base无法实例化对象  x
 
    // Son s; // 子类必须重写父类中的纯虚函数，否侧无法实例化对象 √
 
-   Base * base = new Son;
+   Base *base = new Son;
    base->func();
 }
 
-int main() {
+int main(){
    test01();
    return 0;
 }
