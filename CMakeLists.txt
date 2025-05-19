@@ -7,6 +7,7 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 include_directories(include)
 
 file(GLOB_RECURSE SOURCES "*.cpp")
+set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/Executable files")
 
 add_executable(Cpp.Project ${SOURCES}
         设计立方体类（多文件编程）/实现.cpp
@@ -48,4 +49,7 @@ add_executable(Cpp.Project ${SOURCES}
         继承/多继承语法.cpp
         继承/菱形继承.cpp
         多态/多态基本概念.cpp
+        文件操作/文本-写文件.cpp
+        文件操作/文本-读文件.cpp
+        多态/多态案例-电脑.cpp
 )
