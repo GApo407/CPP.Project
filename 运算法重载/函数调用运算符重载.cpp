@@ -17,7 +17,7 @@ public:
 class MyAdd
 {
 public:
-   int operator()(int a, int b)
+   int operator()(int a, int b)k
    {
       return a + b;
    }

@@ -52,4 +52,7 @@ add_executable(Cpp.Project ${SOURCES}
         文件操作/文本-写文件.cpp
         文件操作/文本-读文件.cpp
         多态/多态案例-电脑.cpp
+        文件操作/二进制文件-写文件.cpp
+        文件操作/二进制文件-读文件.cpp
+        职工系统/职工管理系统.cpp
 )
