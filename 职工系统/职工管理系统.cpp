@@ -29,7 +29,7 @@ public:
 class Ordinary : public Staff{
 public:
    void Staff_Job_Responsibility() override{
-      Staff::Work = "完成经理交给的任务";
+      Work = "完成经理交给的任务";
    };
 };
 
@@ -50,58 +50,64 @@ public:
 };
 
 // 使用动态数组存储职工信息
-vector<Staff> staff;
+vector<Staff*> staff;
 // 增加职工信息
 void AddStaff(){
    int num;
    cout << "请输入需要添加的职工数量: ";
    cin >> num;
    for (int i = 0; i < num; i++){
-      Staff s;
+      Staff *s = nullptr;
       cout << "请输入第" << i + 1 << "位职工的编号:";
-      cin >> s.Staff_ID;
+      int id;
+      cin >> id;
       cout << "请输入第" << i + 1 << "位职工的姓名:";
-      cin >> s.Staff_Name;
-      bool a = true;
-      while (a){
+      string name;
+      cin >> name;
+      bool valid = false;
+      while (!valid){
          cout << "请输入第" << i + 1 << "位职工的职责:";
-         cin >> s.Staff_Responsibility;
-         if (s.Staff_Responsibility == "普通职工"){
-            Ordinary ordinary;
-            ordinary.Staff_Job_Responsibility();
-            a = false;
+         string duty;
+         cin >> duty;
+         if (duty == "普通职工"){
+            s = new Ordinary();
+            valid = true;
          }
-         else if (s.Staff_Responsibility == "经理"){
-            Manager manager;
-            manager.Staff_Job_Responsibility();
-            a = false;
+         else if (duty == "经理"){
+            s = new Manager;
+            valid = true;
          }
-         else if (s.Staff_Responsibility == "老板"){
-            Boss boss;
-            boss.Staff_Job_Responsibility();
-            a = false;
+         else if (duty == "老板"){
+            s = new Boss;
+            valid = true;
          }
          else{
             cout << "没有您所输入的职责请重新输入: " << endl;;
          }
+         if (valid && s) {
+            s->Staff_ID = id;
+            s->Staff_Name = name;
+            s->Staff_Responsibility = duty;
+            s->Staff_Job_Responsibility(); // 调用多态方法
+            staff.push_back(s); // 存储指针到容器
+         }
       }
-      staff.push_back(s);
    }
    ofstream ofs;
    ofs.open("/home/starr/文档/Cpp.Project/职工系统/职工信息文本", ios::out | ios::app);
    for (auto &i: staff){
-      ofs << i.Staff_ID << " " << i.Staff_Name << " "
-            << i.Staff_Responsibility << endl;
+      ofs << i->Staff_ID << " " << i->Staff_Name << " "
+            << i->Staff_Responsibility << endl;
    }
    ofs.close();
 };
 // 显示职工信息
 void DisplayStaff(){
    for (auto &i: staff){
-      cout << "职工编号: " << i.Staff_ID;
-      cout << " 职工姓名: " << i.Staff_Name;
-      cout << " 岗位: " << i.Staff_Responsibility;
-      cout << " 岗位职责： " << i.Work << endl;
+      cout << "职工编号: " << i->Staff_ID;
+      cout << " 职工姓名: " << i->Staff_Name;
+      cout << " 岗位: " << i->Staff_Responsibility;
+      cout << " 岗位职责： " << i->Work << endl;
    }
 };
 // 删除离职信息
@@ -139,6 +145,9 @@ int main(){
       switch (ChooseNum){
          // 退出管理系统
          case 1:
+            for (auto p : staff){
+               delete p;
+            }
             a = false;
             break;
          // 增加职工信息
